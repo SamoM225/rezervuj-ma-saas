@@ -1,0 +1,9 @@
+[Unit]
+Description=rezervuj-ma: Laravel scheduler tick (reminders, GDPR purges)
+After=rezervuj.service
+Requisite=rezervuj.service
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/podman exec -u 33 web-rezervuj php artisan schedule:run --no-interaction
+TimeoutStartSec=120

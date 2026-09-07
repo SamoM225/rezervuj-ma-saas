@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" role="img" aria-label="rezervuj-ma">
+  <rect width="32" height="32" rx="8" fill="#1E6B5E"/>
+  <rect x="6" y="6" width="20" height="3.1" rx="1.55" fill="#fff" opacity=".55"/>
+  <rect x="6" y="12.7" width="8.6" height="4.2" rx="2.1" fill="#fff" opacity=".38"/>
+  <rect x="17.4" y="12.7" width="8.6" height="4.2" rx="2.1" fill="#E4B457"/>
+  <rect x="6" y="19.4" width="8.6" height="4.2" rx="2.1" fill="#fff" opacity=".38"/>
+  <rect x="17.4" y="19.4" width="8.6" height="4.2" rx="2.1" fill="#fff" opacity=".38"/>
+</svg>
